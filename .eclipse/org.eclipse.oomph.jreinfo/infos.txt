@@ -1,0 +1,2 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home:1:8:0:64:true:1500701458000
+/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home:11:0:6:64:true:1579090463000
